@@ -1,0 +1,12 @@
+1.branch as ticket numb sujan-> PROJ-26081
+                        SUshant- PROJ-26082
+2.Clone 
+3.Switch 
+4.fix
+5.add
+6.commit
+7.push
+8.pull request 
+9.review 
+10.merge
+11.delete branch
