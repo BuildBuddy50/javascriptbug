@@ -4,7 +4,7 @@ Mark each bug as you fix it. Write the file, line, and your fix.
 
 | # | File | Fixed? | Root cause (in your words) | Your fix |
 |---|------|:------:|----------------------------|----------|
-| 1 |  | [ ] |  |  |    
+| 1 |  | [in progress ] |  |  |    
 | 2 |  | [ ] |  |  |
 | 3 |  | [ ] |  |  |
 | 4 |  | [ ] |  |  |
