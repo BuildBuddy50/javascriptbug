@@ -4,7 +4,9 @@ Mark each bug as you fix it. Write the file, line, and your fix.
 
 | # | File | Fixed? | Root cause (in your words) | Your fix |
 |---|------|:------:|----------------------------|----------|
-| 1 |  | [ ] |  |  |
+| 1 | BUG1  |[yes]| if('0'==0){console.log(loose equality trap)} this condition is false because both datatype is different  but it becomes true  due to == . its allow type corecion so '0' is a string datatype it is converted to number datatype then compare  | i will removed '==' and add '===' |
+
+
 | 2 |  | [ ] |  |  |
 | 3 |  | [ ] |  |  |
 | 4 |  | [ ] |  |  |
