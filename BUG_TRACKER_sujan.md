@@ -4,18 +4,18 @@ Mark each bug as you fix it. Write the file, line, and your fix.
 
 | # | File | Fixed? | Root cause (in your words) | Your fix |
 |---|------|:------:|----------------------------|----------|
-| 1 |  | [in progress ] |  |  |    
-| 2 |  | [ ] |  |  |
-| 3 |  | [ ] |  |  |
-| 4 |  | [ ] |  |  |
-| 5 |  | [ ] |  |  |
-| 6 |  | [ ] |  |  |
-| 7 |  | [ ] |  |  |
-| 8 |  | [ ] |  |  |
-| 9 |  | [ ] |  |  |
-| 10 |  | [ ] |  |  |
+| 1 |  | [ ans = true ,print=loose equality trap] |i always use (===) ans =fales  |  |    
+| 2 |  | [ans=333, var is function scoped not a block scoped ] | i use let then ans=012  |  |
+| 3 |  | [ ans= 3.14 const velue reasing not possible] |  |  |
+| 4 |  | [myUndeclaredVar is not declared ] |  |  |
+| 5 |  | [hosting error  ] |  |  |
+| 6 |  | [nan ] |  |  |
+| 7 |  | [ ans=51 concat ] |  |  |
+| 8 |  | [ans =10,20 ] |  |  |
+| 9 |  | [ans= 000.. infinity ] | n++ |  |
+| 10 |  | [ans=10 ] |  |  |
 | 11 |  | [ ] |  |  |
-| 12 |  | [ ] |  |  |
+| 12 |  | [ ans =false  typeof null=object] |  |  |
 | 13 |  | [ ] |  |  |
 | 14 |  | [ ] |  |  |
 | 15 |  | [ ] |  |  |
